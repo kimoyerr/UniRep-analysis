@@ -11,6 +11,11 @@ python: 3.5.2
 
 For reference on how to install, see https://askubuntu.com/questions/682869/how-do-i-install-a-different-python-version-using-apt-get
 
+update pip if needed
+```
+pip install --upgrade pip
+````
+
 venv with necessary requirements, can be installed with:
 ```
 cd UniRep-analysis # root directory of the repository
