@@ -1,6 +1,7 @@
 name: ethan_analysis
 channels:
   - conda-forge
+  - anaconda
   - https://conda.binstar.org/omnia
   - defaults
 dependencies:
