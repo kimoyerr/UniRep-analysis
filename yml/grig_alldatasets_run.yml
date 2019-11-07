@@ -1,6 +1,7 @@
 name: grig_alldatasets_run
 channels:
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - boto3=1.9.41=py_0
